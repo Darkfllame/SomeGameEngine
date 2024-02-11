@@ -2,7 +2,7 @@
 using SomeGameEngine.Graphics;
 using SomeGameEngine.Utils;
 
-namespace SomeGameEngine;
+namespace SomeGameEngine.Example;
 
 [PreloadTexture("idontfuckingknow.png")]
 public static class Program
